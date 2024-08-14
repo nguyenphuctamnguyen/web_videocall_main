@@ -92,4 +92,4 @@ Tuần 7: Kiểm thử và cải thiện hiệu năng
 Tuần này, tiến hành kiểm thử đơn vị (unit testing) và kiểm thử tích hợp (integration testing) để đảm bảo các chức năng hoạt động đúng. Sửa lỗi và tối ưu hóa mã nguồn. Sau đó, thực hiện kiểm thử hệ thống trên các thiết bị và trình duyệt khác nhau để đảm bảo tính tương thích và hiệu năng tốt.
 
 Tuần 8: Triển khai và viết báo cáo
-Trong tuần cuối cùng, triển khai ứng dụng lên Firebase Hosting và thực hiện kiểm thử ứng dụng trực tuyến. Hoàn thành viết báo cáo bao gồm các phần từ giới thiệu, cơ sở lý thuyết, thiết kế, triển khai, kiểm thử, đến kết luận. Cuối cùng, chỉnh sửa báo cáo dựa trên phản hồi từ giảng viên hoặc nhóm, chuẩn bị và nộp báo cáo hoàn chỉnh.
+Trong tuần cuối cùng, triển khai ứng dụng lên Firebase Hosting và thực hiện kiểm thử ứng dụng trực tuyến. Hoàn thành viết báo cáo bao gồm các phần từ giới thiệu, cơ sở lý thuyết, thiết kế, triển khai, kiểm thử, đến kết luận. Cuối cùng, chỉnh sửa báo cáo dựa trên phản hồi từ giảng viên hoặc nhóm, chuẩn bị và nộp báo cáo hoàn chỉnh.# web_videocall-main
